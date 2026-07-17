@@ -53,3 +53,12 @@ I specialize in building highly optimized, relational data architectures that ma
   * [💻 Review Data Architecture & Files](https://github.com/Shubhyam-f/CRM_SALES-PIPELINE_ANALYSIS)
 
 ---
+
+### 🧸 4. E-Commerce Toy Retailer: Sales & Web Traffic Analysis
+*A comprehensive financial and marketing Power BI model tracking multi-year unit economics and web traffic conversion mechanics.*
+
+> 💡 **Executive Business Insight:** Identified a critical portfolio vulnerability where a single product (Original Fuzzy Bear) drove 100% of Q1 revenue, coupled with disproportionately high refund rates originating from Social Media traffic. Recommendation: Reallocate marketing spend toward secondary product lines via high-converting Google Search channels to diversify revenue, mitigate single-point-of-failure risk, and slash net returns.
+
+* **The Architecture Challenge:** Engineered a fully optimized Star/Snowflake schema integrating front-end web traffic dimensions (`Website_Sessions`) with downstream transactional fact tables (`Orders`, `Order_Item_Refunds`). Successfully bypassed complex cardinality bottlenecks to accurately track exponential year-over-year unit growth ($41 to $397 per unit).
+* **Demonstration Links:** *
+  * [💻 Review Data Architecture & Files](https://github.com/Shubhyam-f/Online-To-Shop-Analysis.)
