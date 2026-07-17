@@ -28,7 +28,7 @@ I specialize in building highly optimized, relational data architectures that ma
 
 * **The Architecture Challenge:** Normalized a multi-table database (`orders`, `order_details`, `pizzas`, `pizza_types`) into a functioning Star-Schema to track exact item-level granular performance without duplicating total revenue counts.
 * **Demonstration Links:** * 
-  * [💻 Review Data Architecture & Files]([YOUR_REPOSITORY_LINK_HERE](https://github.com/Shubhyam-f/Pizza-Sales-Performance-Analysis))
+  * [💻 Review Data Architecture & Files](https://github.com/Shubhyam-f/Pizza-Sales-Performance-Analysis)
 
 ---
 
@@ -39,7 +39,7 @@ I specialize in building highly optimized, relational data architectures that ma
 
 * **The Architecture Challenge:** Engineered dynamic tenure-bucket parameters and complex percentage-of-total DAX metrics to cleanly isolate multi-variable attrition triggers without cluttering the report layout.
 * **Demonstration Links:** * 
-  * [💻 Review Data Architecture & Files](https://github.com/Shubhyam-f/CRM_SALES-PIPELINE_ANALYSIS)
+  * [💻 Review Data Architecture & Files](https://github.com/Shubhyam-f/HR-attrition-Analysis)
 
 ---
 
