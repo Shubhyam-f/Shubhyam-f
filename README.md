@@ -1,4 +1,4 @@
-# Hi, I'm a Business Intelligence & Data Architect 👋
+# Hi, I'm Shubhyam Nai👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=Power+BI+Developer;Data+Modeler;Turning+Chaos+Into+Insights;Excel+Data+Modeler" alt="Typing SVG" />
 
