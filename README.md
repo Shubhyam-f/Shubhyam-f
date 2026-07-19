@@ -5,8 +5,7 @@
 I specialize in building highly optimized, relational data architectures that map complex macroeconomic patterns, resolve time-intelligence bottlenecks, and deliver clear corporate action items.
 
 * 📧 **Let's Connect:** [shubhyamnai@gmail.com] | [https://www.linkedin.com/in/shubhyam-nai-90b839381/?skipRedirect=true]
-* Resume : https://1drv.ms/b/c/c1dee7e51695bbb1/IQDTMd3VZKltSoUV8wPQJ7XmAWzif49HIvKlpgmzhEK-hmI?e=5iIOno
-
+* [📄 Click Here to View My Official Resume](https://1drv.ms/b/c/c1dee7e51695bbb1/IQDTMd3VZKltSoUV8wPQJ7XmAWzif49HIvKlpgmzhEK-hmI?e=NTLEhC)
 ---
 
 ## 🛠️ Technical Skill Matrix
