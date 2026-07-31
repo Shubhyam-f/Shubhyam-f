@@ -22,7 +22,17 @@ I specialize in building highly optimized, relational data architectures that ma
 ## 🏆 Featured Data Portfolio Projects
 *Every project here is built to solve a specific enterprise architecture dilemma—no video tutorial clones allowed.*
 
-### 🍕 1. Pizza Place Operations & Sales Analysis
+### 💹 1. Indian Stock Market Analysis
+*A self updating pipeline structure using python and SQL to fetch data and do pre-built visuals.*
+
+> 💡 **Key Points** Used Python scripts to fetch data from y.finance API, do pre-made SQL analysis and use analysis to make a dashboard, once done, the model self updates using python scripts using the real world stock market data. Companies analysed: 1. TCS(TATA CONSULTANCY SERVICES) 2. HDFC BANK(HOUSING DEVELOPMENT FINANCE CORPORATION) 3. SBI BANK (STATE BANK OF INDIA)  4.RELIANCE INDUSTRIES LIMITED  5. INFOSYS LIMITED.
+
+* **The Architecture Challenge:**Used whole local database to connect to the internet and fetch data. The pipeline is the most annoying part here, but managed to make it automatic** **Demonstration Links:** * 
+  * [💻 Review Data Architecture & Files](https://github.com/Shubhyam-f/INDIAN-STOCK-MARKET-ANALYSIS)
+
+---
+
+### 🍕 2. Pizza Place Operations & Sales Analysis
 *A relational Power BI model optimizing restaurant operations and product performance metrics.*
 
 > 💡 **Executive Business Insight:** Identified that while the "Classic" pizza category drives the highest overall order volume, the "Supreme" category yields a 14% higher average profit margin per unit. Recommendation: Shift promotional focus toward the Supreme segment during peak weekend hours to lift net profitability.
@@ -33,7 +43,7 @@ I specialize in building highly optimized, relational data architectures that ma
 
 ---
 
-### 👥 2. Corporate HR Attrition & Workforce Analysis
+### 👥 3. Corporate HR Attrition & Workforce Analysis
 *An executive-level workforce optimization model identifying core drivers behind employee turnover.*
 
 > 💡 **Executive Business Insight:** Isolated a major attrition spike (over 32%) specifically among employees with 2-3 years of tenure who score low on job satisfaction metrics, indicating a clear bottleneck in mid-level career progression pathways.
@@ -44,7 +54,7 @@ I specialize in building highly optimized, relational data architectures that ma
 
 ---
 
-### 📈 3. B2B Sales Pipeline CRM Analysis
+### 📈 4. B2B Sales Pipeline CRM Analysis
 *A pipeline tracking dashboard designed to visualize sales pipelines, deal velocities, and agent performance.*
 
 > 💡 **Executive Business Insight:** Discovered that deals sitting in the "Proposal" stage for more than 18 days face a 65% higher probability of being lost. Recommendation: Automated alerts for sales managers when a pipeline deal remains stagnant past 14 days.
@@ -55,7 +65,7 @@ I specialize in building highly optimized, relational data architectures that ma
 
 ---
 
-### 🧸 4. E-Commerce Toy Retailer: Sales & Web Traffic Analysis
+### 🧸 5. E-Commerce Toy Retailer: Sales & Web Traffic Analysis
 *A comprehensive financial and marketing Power BI model tracking multi-year unit economics and web traffic conversion mechanics.*
 
 > 💡 **Executive Business Insight:** Identified a critical portfolio vulnerability where a single product (Original Fuzzy Bear) drove 100% of Q1 revenue, coupled with disproportionately high refund rates originating from Social Media traffic. Recommendation: Reallocate marketing spend toward secondary product lines via high-converting Google Search channels to diversify revenue, mitigate single-point-of-failure risk, and slash net returns.
