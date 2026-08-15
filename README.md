@@ -15,7 +15,8 @@ I specialize in building highly optimized, relational data architectures that ma
 | :--- | :--- | :--- |
 | **Power BI** | Advanced | Relational Star-Schemas, Advanced DAX Logic (`CALCULATE`, `USERELATIONSHIP`) |
 | **Excel Analytics** |Advanced| Advanced Formula Architecture & Data Cleansing |
-| **SQL** | Moderate| Data Transformation (CTEs, Window Functions) |
+| **SQL** | Advanced| Data Transformation (CTEs, Window Functions) |
+| **Python** | Moderate| Numpy, Pandas, Matplotlib, sqlite3, Data Cleaning|
 
 ---
 
