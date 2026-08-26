@@ -16,14 +16,26 @@ I specialize in building highly optimized, relational data architectures that ma
 | **Power BI** | Advanced | Relational Star-Schemas, Advanced DAX Logic (`CALCULATE`, `USERELATIONSHIP`) |
 | **Excel Analytics** |Advanced| Advanced Formula Architecture & Data Cleansing |
 | **SQL** | Advanced| Data Transformation (CTEs, Window Functions) |
-| **Python** | Moderate| Numpy, Pandas, Matplotlib, sqlite3, Data Cleaning|
+| **Python** | Moderate| Numpy, Pandas, Matplotlib, sqlite3, Data Cleaning, Data Acquisations|
+| **AI Integration** | Moderate | Task optimisation, Code Efficiency |
 
 ---
 
 ## 🏆 Featured Data Portfolio Projects
 *Every project here is built to solve a specific enterprise architecture dilemma—no video tutorial clones allowed.*
 
-### 💹 1. Indian Stock Market Analysis
+### 💹 1. UltraTech Cement — Fundamental Equity Valuation & DCF Analysis
+
+*An end-to-end equity research and valuation model combining financial modelling, peer analysis, regression-based beta estimation, WACC, FCFF forecasting and DCF valuation.*
+
+> 💡 **Key Points** Built a complete fundamental valuation model for UltraTech Cement using historical financial data, ratio analysis, peer comparison, 5-year weekly beta regression against NIFTY 50, unlevered/ unlevered beta, CAPM, capital structure, WACC, FCFF forecasting and DCF valuation. The model estimated an intrinsic value of approximately **₹7,383 per share** under the base-case assumptions.
+
+* **The Architecture Challenge:** Integrated financial modelling with quantitative market-risk analysis, using Python and "yfinance" to acquire and structure the 5-year weekly market data required for peer beta regression, then connected the results to the WACC and DCF valuation workflow.
+  
+  * [💻 Review Financial Model, Valuation & Files](https://github.com/Shubhyam-f/UltraTech-Cement-Fundamental-Equity-Valuation-DCF-Analysis)
+
+
+### 💹 2. Indian Stock Market Analysis
 *A self updating pipeline structure using python and SQL to fetch data and do pre-built visuals.*
 
 > 💡 **Key Points** Used Python scripts to fetch data from y.finance API, do pre-made SQL analysis and use analysis to make a dashboard, once done, the model self updates using python scripts using the real world stock market data. Companies analysed: 1. TCS(TATA CONSULTANCY SERVICES) 2. HDFC BANK(HOUSING DEVELOPMENT FINANCE CORPORATION) 3. SBI BANK (STATE BANK OF INDIA)  4.RELIANCE INDUSTRIES LIMITED  5. INFOSYS LIMITED.
@@ -33,7 +45,7 @@ I specialize in building highly optimized, relational data architectures that ma
 
 ---
 
-### 🍕 2. Pizza Place Operations & Sales Analysis
+### 🍕 3. Pizza Place Operations & Sales Analysis
 *A relational Power BI model optimizing restaurant operations and product performance metrics.*
 
 > 💡 **Executive Business Insight:** Identified that while the "Classic" pizza category drives the highest overall order volume, the "Supreme" category yields a 14% higher average profit margin per unit. Recommendation: Shift promotional focus toward the Supreme segment during peak weekend hours to lift net profitability.
@@ -44,7 +56,7 @@ I specialize in building highly optimized, relational data architectures that ma
 
 ---
 
-### 👥 3. Corporate HR Attrition & Workforce Analysis
+### 👥 4. Corporate HR Attrition & Workforce Analysis
 *An executive-level workforce optimization model identifying core drivers behind employee turnover.*
 
 > 💡 **Executive Business Insight:** Isolated a major attrition spike (over 32%) specifically among employees with 2-3 years of tenure who score low on job satisfaction metrics, indicating a clear bottleneck in mid-level career progression pathways.
@@ -55,7 +67,7 @@ I specialize in building highly optimized, relational data architectures that ma
 
 ---
 
-### 📈 4. B2B Sales Pipeline CRM Analysis
+### 📈 5. B2B Sales Pipeline CRM Analysis
 *A pipeline tracking dashboard designed to visualize sales pipelines, deal velocities, and agent performance.*
 
 > 💡 **Executive Business Insight:** Discovered that deals sitting in the "Proposal" stage for more than 18 days face a 65% higher probability of being lost. Recommendation: Automated alerts for sales managers when a pipeline deal remains stagnant past 14 days.
@@ -66,7 +78,7 @@ I specialize in building highly optimized, relational data architectures that ma
 
 ---
 
-### 🧸 5. E-Commerce Toy Retailer: Sales & Web Traffic Analysis
+### 🧸 6. E-Commerce Toy Retailer: Sales & Web Traffic Analysis
 *A comprehensive financial and marketing Power BI model tracking multi-year unit economics and web traffic conversion mechanics.*
 
 > 💡 **Executive Business Insight:** Identified a critical portfolio vulnerability where a single product (Original Fuzzy Bear) drove 100% of Q1 revenue, coupled with disproportionately high refund rates originating from Social Media traffic. Recommendation: Reallocate marketing spend toward secondary product lines via high-converting Google Search channels to diversify revenue, mitigate single-point-of-failure risk, and slash net returns.
