@@ -34,6 +34,7 @@ I specialize in building highly optimized, relational data architectures that ma
   
   * [💻 Review Financial Model, Valuation & Files](https://github.com/Shubhyam-f/UltraTech-Cement-Fundamental-Equity-Valuation-DCF-Analysis)
 
+---
 
 ### 💹 2. Indian Stock Market Analysis
 *A self updating pipeline structure using python and SQL to fetch data and do pre-built visuals.*
