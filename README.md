@@ -18,7 +18,7 @@ My work combines **financial modelling, equity research, data analytics, statist
 | Area                                   | Tools / Skills                                      | Core Application                                             |
 | :------------------------------------- | :-------------------------------------------------- | :----------------------------------------------------------- |
 | **Financial Analysis & Valuation**     | DCF, FCFF, Relative Valuation, WACC, CAPM, Beta     | Fundamental analysis, intrinsic valuation & forecasting      |
-| **Statistics & Quantitative Analysis** | SLR, Multiple Regression, ANOVA, OLS                | Financial modelling, market analysis & statistical inference |
+| **Statistics & Quantitative Analysis** | SLR, MLR, ANOVA, OLS                | Financial modelling, market analysis & statistical inference |
 | **Power BI**                           | DAX, Data Modelling, Star Schema, Time Intelligence | Interactive business intelligence & financial dashboards     |
 | **Excel**                              | Advanced Formulas, Financial Modelling, Power Query | Financial analysis, modelling & data transformation          |
 | **SQL**                                | CTEs, Window Functions, SQLite                      | Data transformation, querying & analytical workflows         |
