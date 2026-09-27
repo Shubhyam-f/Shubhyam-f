@@ -151,15 +151,6 @@ The objective is to connect **business drivers → financial statements → fore
 * Industry & Company Analysis
 * NISM Research Analyst curriculum
 
-### Quantitative Analysis
-
-* Multiple Linear Regression
-* ANOVA
-* OLS estimation
-* Regression diagnostics
-* Multicollinearity
-* Statistical inference
-* Financial applications of regression
 
 ### Data & Technology
 
