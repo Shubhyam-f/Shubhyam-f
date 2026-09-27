@@ -109,8 +109,7 @@ My work combines **financial modelling, equity research, data analytics, statist
 
 * **The Data Modelling Challenge:** Engineered a Star/Snowflake-style model connecting website-session dimensions with transactional fact tables such as `Orders` and `Order_Item_Refunds`, while resolving relationship and cardinality issues across the model.
 
-  * [💻 Review Data Architecture & Files](https://github.com/Shubhyam-f/Online-To-Shop-Analysis)
-
+  * [💻 Review Data Architecture & Files](https://github.com/Shubhyam-f/Online-To-Shop-Analysis.)
 ---
 
 ## 🔬 Current Research
