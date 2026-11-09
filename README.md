@@ -1,7 +1,7 @@
 
 # Hey, I'm Shubhyam 👋
 
-### Finance × Data × Research
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=550&lines=Finance+%C3%97+Data+%C3%97+Research;Equity+Research+%26+Valuation;Financial+Modelling+%26+Analysis;Power+BI+%26+SQL;Turning+Data+Into+Insights" alt="Typing SVG" />
 
 I'm a B.Com. (Hons.) student majoring in **Finance and Economics at The Maharaja Sayajirao University of Baroda**, interested in the intersection of financial analysis, equity research, valuation, and data analytics.
 
