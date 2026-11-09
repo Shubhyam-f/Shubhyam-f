@@ -218,4 +218,4 @@ I'm open to learning opportunities, finance and analytics projects, and meaningf
 
 💼 **LinkedIn:** https://www.linkedin.com/in/shubhyam-nai-90b839381/
   
-"Better questions. Deeper analysis. Strong decisions"
+*"Better questions. Deeper analysis. Stronger decisions."*
